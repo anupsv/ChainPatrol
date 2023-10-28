@@ -1,0 +1,5 @@
+rpcEndpoint: "https://mainnet.infura.io/v3/YOUR_INFURA_ACCESS_TOKEN"
+contractAddresses:
+  - "0xFirstContractAddress"
+  - "0xSecondContractAddress"
+logLevel: "info"
